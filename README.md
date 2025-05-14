@@ -11,4 +11,4 @@ A responsive and elegant website for showcasing and selling beautiful bouquets o
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript
+- **Frontend**: HTML5
